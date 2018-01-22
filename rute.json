@@ -1,0 +1,92 @@
+{
+"data": [
+  {
+    "kode": "sj",
+    "kode_asal": "srg",
+    "kode_tujuan": "jog",
+    "asal": "Semarang",
+    "tujuan": "Jogjakarta",
+    "harga": 50000,
+    "jadwal": [
+      {
+        "kode": "sj01",
+        "berangkat": "10:00",
+        "kendaraan": "xenia",
+        "seat": 5
+      },
+      {
+        "kode": "sj01",
+        "berangkat": "14:00",
+        "kendaraan": "avanza",
+        "seat": 5
+      }
+    ]
+  },
+  {
+    "kode": "js",
+    "kode_asal": "jog",
+    "kode_tujuan": "srg",
+    "asal": "Jogjakarta",
+    "tujuan": "Semarang",
+    "harga": 50000,
+    "jadwal": [
+      {
+        "kode": "sj01",
+        "berangkat": "08:00",
+        "kendaraan": "xenia",
+        "seat": 5
+      },
+      {
+        "kode": "sj01",
+        "berangkat": "16:00",
+        "kendaraan": "avanza",
+        "seat": 5
+      }
+    ]
+  },
+  {
+    "kode": "sp",
+    "kode_asal": "srg",
+    "kode_tujuan": "pur",
+    "asal": "Semarang",
+    "tujuan": "Purwokerto",
+    "harga": 50000,
+    "jadwal": [
+      {
+        "kode": "ps01",
+        "berangkat": "10:00",
+        "kendaraan": "xenia",
+        "seat": 5
+      },
+      {
+        "kode": "ps01",
+        "berangkat": "14:00",
+        "kendaraan": "avanza",
+        "seat": 5
+      }
+    ]
+  },
+  {
+    "kode": "ps",
+    "kode_asal": "pur",
+    "kode_tujuan": "srg",
+    "asal": "Purwokerto",
+    "tujuan": "Semarang",
+    "harga": 50000,
+    "jadwal": [
+      {
+        "kode": "p201",
+        "berangkat": "08:00",
+        "kendaraan": "xenia",
+        "seat": 5
+      },
+      {
+        "kode": "p201",
+        "berangkat": "16:00",
+        "kendaraan": "avanza",
+        "seat": 5
+      }
+    ]
+  }
+  ]
+}
